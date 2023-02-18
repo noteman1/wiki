@@ -32,3 +32,9 @@ npm install --save-dev eslint-config-prettier
 ```bash
 npm install --save-dev sass
 ```
+
+## extra
+
+```bash
+npm install react-icons
+```
