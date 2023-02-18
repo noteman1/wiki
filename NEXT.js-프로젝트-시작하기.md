@@ -27,3 +27,4 @@ npm install --save-dev eslint-config-prettier
   "extends": ["next/core-web-vitals", "prettier"]
 }
 ```
+
