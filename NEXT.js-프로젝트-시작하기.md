@@ -6,8 +6,6 @@ npx create-next-app@latest --typescript
 cd {project_name}
 npm install --save-dev --save-exact prettier
 echo {}> .prettierrc.json
-
-npm run dev
 ```
 
 ```json
@@ -16,5 +14,16 @@ npm run dev
   "tabWidth": 2,
   "semi": true,
   "singleQuote": true
+}
+```
+
+```bash
+npm install --save-dev eslint-config-prettier
+```
+
+.eslintrc.json
+```json
+{
+  "extends": ["next/core-web-vitals", "prettier"]
 }
 ```
