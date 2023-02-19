@@ -37,4 +37,5 @@ npm install --save-dev sass
 
 ```bash
 npm install react-icons
+npm install next-seo
 ```
