@@ -19,3 +19,8 @@ package.json
 ```bash
 npm i pg typeorm reflect-metadata
 ```
+
+initial typeorm and config
+```
+npx typeorm init --name MyProject --database postgres
+```
