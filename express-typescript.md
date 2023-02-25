@@ -14,3 +14,8 @@ package.json
   "dev": "nodemon --exec ts-node src/index.ts"
 }
 ```
+
+## DATABASE
+```bash
+npm i pg typeorm reflect-metadata
+```
