@@ -7,6 +7,7 @@ npm i -D nodemon typescript ts-node @types/node @types/express @types/morgan
 npx tsc --init
 ```
 
+package.json
 ```json
 "script": {
   "start": "ts-node src/index.ts",
