@@ -18,6 +18,8 @@ package.json
 ## DATABASE
 ```bash
 npm i pg typeorm reflect-metadata
+npm i bcryptjs class-validator class-transformer
+npm i -D @types/bcryptjs
 ```
 
 initial typeorm and config
