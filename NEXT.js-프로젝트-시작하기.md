@@ -66,6 +66,10 @@ globals.css
 @tailwind components;
 @tailwind utilities;
 ```
+## extra
+```bash
+npm i classnames
+```
 
 ## extra
 
