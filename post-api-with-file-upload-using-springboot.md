@@ -1,3 +1,4 @@
+```java
 @PostMapping("/upload")
 public ResponseEntity<String> uploadFile(@RequestParam("file") MultipartFile file) {
     try {
@@ -12,3 +13,4 @@ public ResponseEntity<String> uploadFile(@RequestParam("file") MultipartFile fil
         return ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR).body("Failed to upload file");
     }
 }
+```
