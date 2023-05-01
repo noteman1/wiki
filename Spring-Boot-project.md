@@ -7,4 +7,7 @@
   * @Query
   * Query DSL
 * REST template
-* jUnit
+* TDD
+  * jUnit
+  * 테스트 커버리지
+  * 코드 커버리지 jacoco
