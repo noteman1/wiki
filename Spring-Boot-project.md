@@ -11,3 +11,5 @@
   * jUnit
   * 테스트 커버리지
   * 코드 커버리지 jacoco
+* Monitoring
+  * Spring Actuator
