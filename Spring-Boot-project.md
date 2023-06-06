@@ -5,7 +5,9 @@
 * LogBack
 * JPA
   * Query Method
-  * @Query
+  * JPQL
+    * @Query annotation
+    * EntityManager.createQuery 
   * Query DSL
 * Spring Security
 * REST template
