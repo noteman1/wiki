@@ -5,6 +5,8 @@
 * LogBack
 * JPA
   * Query Method
+    * Sort
+    * Pageable
   * JPQL
     * @Query annotation
     * EntityManager.createQuery 
