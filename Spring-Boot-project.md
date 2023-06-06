@@ -9,6 +9,8 @@
     * Pageable
   * JPQL
     * @Query annotation
+      * JPQL
+      * Native Query
     * EntityManager.createQuery 
   * Query DSL
 * Spring Security
